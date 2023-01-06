@@ -6,7 +6,7 @@ body{
 #card{
     background: #222833;
     background: linear-gradient(180deg, rgba(33,38,47,1) 1%, rgba(23,30,40,1) 100%);
-    margin: 15em 28em;
+    margin: 20% 36%;
     border-radius: 25px;
     padding: 3%;
 }
