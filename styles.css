@@ -1,0 +1,56 @@
+body{
+    background-color: #141519;
+    color: white;
+    cursor: default;
+}
+#card{
+    background: #222833;
+    background: linear-gradient(180deg, rgba(33,38,47,1) 1%, rgba(23,30,40,1) 100%);
+    margin: 15em 28em;
+    border-radius: 25px;
+    padding: 3%;
+}
+
+#logo-wrapper{
+    background-color: #262f38;
+    display: inline;
+    border-radius: 100px;
+    padding: 0.7em 0.55em 0.45em 0.65em;
+    margin: 0;
+    align-items: center;
+}
+#text-wrapper{
+    font-family: 'Roboto', sans-serif;
+}
+#text-wrapper p{
+    color: #727983;
+}
+
+#rating-wrapper button{
+    background-color: #262f38;
+    padding: 1em 1.35em;
+    margin: 0.5em;
+    border-radius: 100px;
+}
+
+#rating-wrapper button:hover{
+    background-color: #7c8898;
+    cursor: pointer;
+}
+
+#rating-wrapper button{
+    background-color: #262f38;
+    color: inherit;
+    border-style: none;
+}
+#rating-wrapper button:focus{
+    background-color: #fc7612;
+}
+
+#submit-button{
+    background-color: #fc7612;
+    border-style: none;
+    margin-top: 1em;
+    padding: 3% 40%;
+    border-radius: 20px;
+}
