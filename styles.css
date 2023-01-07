@@ -7,15 +7,15 @@ body{
     background: #222833;
     background: linear-gradient(180deg, rgba(33,38,47,1) 1%, rgba(23,30,40,1) 100%);
     margin: 20% 36%;
-    border-radius: 25px;
+    border-radius: 156.25%;
     padding: 3%;
 }
 
 #logo-wrapper{
     background-color: #262f38;
     display: inline;
-    border-radius: 100px;
-    padding: 0.7em 0.55em 0.45em 0.65em;
+    border-radius: 625%;
+    padding: 70% 55% 45% 65%;
     margin: 0;
     align-items: center;
 }
@@ -28,9 +28,9 @@ body{
 
 #rating-wrapper button{
     background-color: #262f38;
-    padding: 1em 1.35em;
-    margin: 0.5em;
-    border-radius: 100px;
+    padding: 100% 135%;
+    margin: 50%;
+    border-radius: 625%;
 }
 
 #rating-wrapper button:hover{
@@ -50,7 +50,7 @@ body{
 #submit-button{
     background-color: #fc7612;
     border-style: none;
-    margin-top: 1em;
+    margin-top: 100%;
     padding: 3% 40%;
-    border-radius: 20px;
+    border-radius: 125%;
 }
